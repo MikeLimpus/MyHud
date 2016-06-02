@@ -5,9 +5,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"100"		[$WIN32]
+		"xpos"			"c-250"		[$WIN32]
 		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"50"	[$WIN32]
+		"ypos"			"c0"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
@@ -30,17 +30,17 @@
 		"zpos"			"4"
 		"wide"			"51"
 		"tall"			"51"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"73"
+		"xpos"			"999973"
 		"xpos_minmode"	"58"
-		"ypos"			"33"
+		"ypos"			"999933"
 		"zpos"			"3"
 		"wide"			"55"
 		"tall"			"55"
@@ -53,10 +53,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
+		"xpos"			"999973"	[$WIN32]
 		"xpos_minmode"	"65"	[$WIN32]
 		"xpos"			"83"	[$X360]
-		"ypos"			"33"	[$WIN32]
+		"ypos"			"999933"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
 		"ypos"			"43"	[$X360]
 		"zpos"			"2"
@@ -80,14 +80,14 @@
 		"ypos"			"52"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"100"
+		"tall"			"36"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"RobotoRegular24"
-		"fgcolor"		"TanDark"
+		"font"			"RobotoRegular48"
+		"fgcolor"		"HudWhite"
 	}								
 	"PlayerStatusBleedImage"
 	{
