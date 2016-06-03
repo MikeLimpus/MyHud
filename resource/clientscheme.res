@@ -2886,6 +2886,35 @@ Scheme
 			}
 		}
 		
+		RobotoRegular8
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"8"		
+				"antialias" "1"
+			}
+		}
+		
+		RobotoRegular10
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"10"		
+				"antialias" "1"
+			}
+		}
+		
+		RobotoRegular12
+		{
+			"1"
+			{
+				"name"		"Roboto Regular"
+				"tall"		"12"		
+				"antialias" "1"
+			}
+		}
 		RobotoRegular16
 		{
 			"1"
@@ -2932,6 +2961,16 @@ Scheme
 			{
 				"name"		"Roboto Regular"
 				"tall"		"48"		
+				"antialias" "1"
+			}
+		}	
+		
+		RobotoCondensed12
+		{
+			"1"
+			{
+				"name"		"Roboto Condensed"
+				"tall"		"12"		
 				"antialias" "1"
 			}
 		}	
@@ -2986,6 +3025,16 @@ Scheme
 			}
 		}
 		
+		RobotoLight12
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"12"		
+				"antialias" "1"
+			}
+		}
+		
 		RobotoLight16
 		{
 			"1"
@@ -3032,6 +3081,16 @@ Scheme
 			{
 				"name"		"Roboto Light"
 				"tall"		"48"		
+				"antialias" "1"
+			}
+		}
+		
+		RobotoMedium12
+		{
+			"1"
+			{
+				"name"		"Roboto Medium"
+				"tall"		"12"		
 				"antialias" "1"
 			}
 		}

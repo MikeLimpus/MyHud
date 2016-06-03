@@ -89,9 +89,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"RobotoCondensed24"
-		"font_lodef"	"RobotoCondensed24"
-		"font_minmode"	"RobotoCondensed24"
+		"font"			"RobotoLight24"
+		"font_lodef"	"RobotoLight24"
+		"font_minmode"	"RobotoLight24"
 		"fgcolor"		"Gray"
 		"xpos"			"130"
 		"xpos_minmode"	"65"
