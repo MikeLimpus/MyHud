@@ -13,7 +13,7 @@
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
 		"wide"			"250"
-		"tall"			"120"
+		"tall"			"140"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"35"
@@ -54,7 +54,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
 		"xpos"			"99"	[$WIN32]
-		"ypos"			"42"	[$WIN32]
+		"ypos"			"60"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"55"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
@@ -72,7 +72,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
-		"ypos"			"52"	[$WIN32]
+		"ypos"			"70"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"36"
