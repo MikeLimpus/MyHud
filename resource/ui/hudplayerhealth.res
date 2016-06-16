@@ -100,7 +100,7 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"HPBackgroundPanel1"
-		"xpos"			"85"
+		"xpos"			"99999"
 		"ypos"			"110"
 		"zpos"			"10"
 		"wide"			"80"
